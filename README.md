@@ -64,6 +64,8 @@ endmodule
 ![op3](https://github.com/Akshayasakthivels/ENCODER8TO3DATAFLOW/assets/144870561/421c8671-8e1a-4cf9-9023-b574a75baa76)
 
 **RESULTS**
+
+
 Therefore the code for encoder8to3 has been successfully executed.
 
 
